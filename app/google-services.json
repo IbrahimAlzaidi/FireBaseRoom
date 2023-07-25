@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682394521705",
+    "project_id": "roomtest-8ad3b",
+    "storage_bucket": "roomtest-8ad3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682394521705:android:205308ff126a211f6b92f8",
+        "android_client_info": {
+          "package_name": "com.iaz.firebaseroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682394521705-n9lar5iiiag8g77777j2am1nb746qjva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iaz.firebaseroom",
+            "certificate_hash": "9ccbc54f79ed942fc82bdc379f637bb1b63275e6"
+          }
+        },
+        {
+          "client_id": "682394521705-1ijnjfv42ddrlon8t9rgj5ad5trrgcp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5a34m3ASAnQefwwzWy0wCB3g8xeSqr0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682394521705-1ijnjfv42ddrlon8t9rgj5ad5trrgcp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
